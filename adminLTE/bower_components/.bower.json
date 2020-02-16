@@ -1,0 +1,13 @@
+{
+  "name": "adminLTE",
+  "homepage": "https://github.com/thainv-vnist/adminLTE",
+  "_release": "585fe09f27",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "585fe09f27508be86024fc2774061cef36852255"
+  },
+  "_source": "https://github.com/thainv-vnist/adminLTE.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/thainv-vnist/adminLTE.git"
+}

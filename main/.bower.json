@@ -1,0 +1,13 @@
+{
+  "name": "main",
+  "homepage": "https://github.com/huybvvnist/main",
+  "_release": "98f92932d4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "98f92932d4d356578a6bb5e26e5c15b22d0843a9"
+  },
+  "_source": "https://github.com/huybvvnist/main.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/huybvvnist/main.git"
+}
