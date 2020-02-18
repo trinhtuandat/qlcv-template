@@ -1,13 +1,26 @@
-
 $(function () {
-$('#datepicker2').datepicker({
+  $('.employeedatepicker').datepicker({
     autoclose: true,
     startView: 1,
     minViewMode: "months"
   })
-$('#datepicker6').datepicker({
+  $('#employeedatepicker4').datepicker({
     autoclose: true,
     startView: 1,
     minViewMode: "months"
+  })
+  $('#employeedatepicker5').datepicker({
+    autoclose: true,
+    startView: 1,
+    minViewMode: "months"
+  })
+  
+
+  //Date picker
+  $('.datepicker').datepicker({
+    autoclose: true
+  })
+  $('.datepicker1').datepicker({
+    autoclose: true
   })
 })
