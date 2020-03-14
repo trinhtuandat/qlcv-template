@@ -10,7 +10,7 @@ $(function () {
             id = $row.data('id'),
             $columnName = $row.find('td[data-column="name"]'),
             children = $table.find('tr[data-parent="' + id + '"]');
-
+        $columnName.find('span').remove();
         if (children.length) {
             var expander = $columnName.prepend('' +
                 '<span class="treegrid-expander glyphicon glyphicon-chevron-down"></span>' +
