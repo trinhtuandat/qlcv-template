@@ -206,3 +206,7 @@ tbody#actions td:not(:last-child) {
 .R10 {
     right: 33px!important;
 }
+
+.table-hover tbody tr:hover{
+    background-color: #d7d6ee;
+}
